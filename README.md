@@ -1,6 +1,7 @@
 # MultiSpectral-CoRegistration
 Overlays images captured by cameras fixed in a rig, e.g. Parrot Sequoia and RedEdge MicaSense
 This is an implementation of the following paper:
+
 Shahbazi, M. and Cortes, C., 2019. Seamless Co-Registration of Images from Multi-Sensor Multispectral Cameras. The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, 42, pp.315-322.
 
 ## Requirements
